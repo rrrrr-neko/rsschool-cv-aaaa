@@ -10,4 +10,16 @@
 
 I aspire to grow as a frontend developer and UX/UI designer. I'm responsible, eager to learn, and always open to discovering new things. I worked as a full-stack developer at the university for 1.5 years. I try to live by LeBlanc's law:  
 
-> Later equals never.
+> Later equals never.   
+
+## Skills  
+
+* HTML
+* CSS (BEM) 
+* JavaScript
+* PHP (Laravel)
+* GIT / GitHub  
+* Visual Studio, Visual Studio Code
+* Figma, Pixso, Adobe Illustrator
+* Windows OS, Linux  
+* English (B1)   
