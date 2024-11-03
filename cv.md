@@ -34,3 +34,9 @@ function vowelOne(s){
             .join('');
   }
 ```
+## Education  
+* *2019 - 2024* - bachelor "09.03.01 Informatics and Computer Engineering" Moscow Power Engineering Institute   
+* *2024 - ...* - master's degree "09.04.01 Computer Science and Engineering" Moscow Power Engineering Institute  
+
+**Courses:**  
+* Responsive Web Desing [Certifacation](https://www.freecodecamp.org/certification/rrrrr_neko/responsive-web-design)  
