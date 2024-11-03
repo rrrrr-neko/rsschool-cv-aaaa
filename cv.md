@@ -23,3 +23,14 @@ I aspire to grow as a frontend developer and UX/UI designer. I'm responsible, ea
 * Figma, Pixso, Adobe Illustrator
 * Windows OS, Linux  
 * English (B1)   
+
+## Code Examples  
+```
+function vowelOne(s){
+    let vowels = ['a','e','i','o','u'];
+    return s.toLowerCase()
+            .split('')
+            .map( (a) => (vowels.find(item => item == a)) ? a = 1 : a = 0 )
+            .join('');
+  }
+```
