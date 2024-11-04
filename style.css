@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.green {
+    border: 3px solid rgb(101, 210, 141);
+}
+
+main {
+    position: relative;
+    margin: 20px auto;
+    width: 800px;
+    font-family: "Montserrat", sans-serif;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 0 0;
+}
+
+img {
+    width: 200px;
+    /*clip-path: inset(0rem 0rem 5rem 0rem);*/
+    height: 200px;
+    object-fit: cover;
+    object-position: 0 5px;
+}
+
+h1 {
+    font-style: bold;
+    font-size: 2rem;
+}
+
+.subtitle {
+    color: rgb(77, 192, 119);
+    font-size: 1.3em;
+    margin: 5px 0;
+    padding: 0;
+}
+
+p {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+h2 {
+    color: rgb(77, 192, 119);
+    margin: 2rem 0 1rem 0;
+}
+
+ul {
+    padding: 10px 20px;
+}
+
+li {
+    margin: 0.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    font-size: 0.8em;
+}
+
+a:hover {
+    color: rgb(77, 192, 119);
+}
+
+.contact {
+    padding: 0;
+}
