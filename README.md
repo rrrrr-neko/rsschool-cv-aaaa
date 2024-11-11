@@ -1,2 +1,1 @@
-# rsschool-cv
-CV#1. Markdown &amp; Git
+https://rrrrr-neko.github.io/rsschool-cv/cv   
