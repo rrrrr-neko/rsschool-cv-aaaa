@@ -1,0 +1,42 @@
+# Svetlana Konyaeva  
+
+*telegram: [@rrrrr_neko](https://t.me/rrrrr_neko)*    
+*phone: +7 (905) 111-74-02*   
+*email: skonyaeva@list.ru*     
+
+## About Me    
+
+23 years old, I enjoy reading books and comics, and riding a longboard.
+
+I aspire to grow as a frontend developer and UX/UI designer. I'm responsible, eager to learn, and always open to discovering new things. I worked as a full-stack developer at the university for 1.5 years. I try to live by LeBlanc's law:  
+
+> Later equals never.   
+
+## Skills  
+
+* HTML
+* CSS (BEM) 
+* JavaScript
+* PHP (Laravel)
+* GIT / GitHub  
+* Visual Studio, Visual Studio Code
+* Figma, Pixso, Adobe Illustrator
+* Windows OS, Linux  
+* English (B1)   
+
+## Code Examples  
+```
+function vowelOne(s){
+    let vowels = ['a','e','i','o','u'];
+    return s.toLowerCase()
+            .split('')
+            .map( (a) => (vowels.find(item => item == a)) ? a = 1 : a = 0 )
+            .join('');
+  }
+```
+## Education  
+* *2019 - 2024* - bachelor "09.03.01 Informatics and Computer Engineering" Moscow Power Engineering Institute   
+* *2024 - ...* - master's degree "09.04.01 Computer Science and Engineering" Moscow Power Engineering Institute  
+
+**Courses:**  
+* Responsive Web Desing [Certifacation](https://www.freecodecamp.org/certification/rrrrr_neko/responsive-web-design)  
